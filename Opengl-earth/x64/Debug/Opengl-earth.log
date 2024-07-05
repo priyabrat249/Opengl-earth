@@ -1,0 +1,25 @@
+﻿  main.cpp
+E:\Opengl-earth\main.cpp(24,32): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Opengl-earth\main.cpp(24,37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Opengl-earth\main.cpp(24,42): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Opengl-earth\main.cpp(25,32): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Opengl-earth\main.cpp(25,37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Opengl-earth\main.cpp(25,42): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Opengl-earth\main.cpp(96,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Opengl-earth\main.cpp(96,35): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Opengl-earth\main.cpp(96,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Opengl-earth\main.cpp(97,30): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Opengl-earth\main.cpp(97,35): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Opengl-earth\main.cpp(97,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+E:\Opengl-earth\main.cpp(126,34): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Opengl-earth\main.cpp(150,29): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+E:\Opengl-earth\main.cpp(153,29): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+E:\Opengl-earth\main.cpp(156,29): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+E:\Opengl-earth\main.cpp(159,29): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+E:\Opengl-earth\main.cpp(162,30): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+E:\Opengl-earth\main.cpp(166,30): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+E:\Opengl-earth\main.cpp(190,32): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\Opengl-earth\main.cpp(191,32): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: PDB '' was not found with 'soil2-debug.lib(SOIL2.obj)' or at ''; linking object as if no debug info
+  Opengl-earth.vcxproj -> E:\Opengl-earth\x64\Debug\Opengl-earth.exe
+          1 file(s) copied.
